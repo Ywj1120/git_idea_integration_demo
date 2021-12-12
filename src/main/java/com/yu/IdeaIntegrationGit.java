@@ -6,5 +6,6 @@ public class IdeaIntegrationGit {
         System.out.println("v2");
         System.out.println("v3");
         System.out.println("test branch v4");
+        System.out.println("test branch v5");
     }
 }
