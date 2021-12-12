@@ -9,5 +9,6 @@ public class IdeaIntegrationGit {
         System.out.println("test branch v5");
         System.out.println("test branch v6");
         System.out.println("test branch v7");
+        System.out.println("test branch v8")
     }
 }
